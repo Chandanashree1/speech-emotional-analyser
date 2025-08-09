@@ -1,5 +1,5 @@
-# speech-emotional-classifier
-**🎤 Speech Emotion Classifier**
+# speech-emotional-recognition
+**🎤 Speech Emotion Recognition**
 
 This project aims to recognize emotions from speech using machine learning techniques.
 It processes audio files, extracts relevant features (like MFCCs), and trains models to classify emotions such as happiness, sadness, anger, etc.
