@@ -1,9 +1,11 @@
 # speech-emotional-analyser
 **🎤 Speech Emotion Recognition**
+
 This project aims to recognize emotions from speech using machine learning techniques.
 It processes audio files, extracts relevant features (like MFCCs), and trains models to classify emotions such as happiness, sadness, anger, etc.
 
 **📂 Project Structure**
+
 1.Data Loading – Reads audio dataset.
 
 2.Exploratory Data Analysis (EDA) – Visualizes waveform, spectrogram, and emotion distribution.
@@ -15,6 +17,7 @@ It processes audio files, extracts relevant features (like MFCCs), and trains mo
 5.Modeling – Machine learning models to classify emotions.
 
 **🛠️ Technologies Used**
+
 1.Python
 
 2.Pandas, NumPy – Data handling
@@ -26,6 +29,7 @@ It processes audio files, extracts relevant features (like MFCCs), and trains mo
 5.scikit-learn – Preprocessing & modeling
 
 **📊 Workflow**
+
 1.Load dataset
 
 2.Perform EDA
@@ -35,4 +39,5 @@ It processes audio files, extracts relevant features (like MFCCs), and trains mo
 4.Encode target labels
 
 5.Train and evaluate the model
+
 **Dataset used:** Toronto Emotional Speech Set (TESS) 
